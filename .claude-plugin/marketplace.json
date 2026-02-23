@@ -1,0 +1,12 @@
+{
+  "name": "git-submodule-manager-dev",
+  "description": "Development marketplace for git-submodule-manager plugin",
+  "owner": { "name": "moonklabs" },
+  "plugins": [{
+    "name": "git-submodule-manager",
+    "description": "Git worktree + submodule 통합 관리 (sellerking-data-monolith)",
+    "version": "1.0.0",
+    "source": "./git-submodule-manager",
+    "author": { "name": "moonklabs" }
+  }]
+}

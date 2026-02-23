@@ -1,0 +1,8 @@
+{
+  "name": "git-submodule-manager",
+  "version": "1.0.0",
+  "description": "Git worktree + submodule 통합 관리 (sellerking-data-monolith)",
+  "author": { "name": "moonklabs" },
+  "license": "MIT",
+  "keywords": ["worktree", "submodule", "monorepo", "git"]
+}
